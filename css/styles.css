@@ -17,11 +17,11 @@
 	--main-color-dark2: #d27575;
 	--main-color-light3: #a0d3f2;
 	--main-color-dark3: #769bb3;
-	--coral: #EF927E
-	--lime: #A3EF7E
-	--turquoise: #7EEFCB
-	--pink: #CB1B91
-	--red:#CB1B39
+	--main-color-coral: #EF927E
+	--main-color-lime: #A3EF7E
+	--main-color-turquoise: #7EEFCB
+	--main-color-pink: #CB1B91
+	--main-color-red:#CB1B39
 }
 
 /* Extra small devices (portrait phones, less than 576px)
@@ -32,13 +32,14 @@ No media query for `xs` since this is the default in Bootstrap */
 	height: 200vh;
 	background-color: var(--main-color-white);
 	font-family: 'Tangerine', cursive;
-	color: coral
+	color: main-color-dark3;
 }
 
 #sec_nav {
 	height: 25vh;
-	background-color: var(--main-color-gray);
+	background-color: var(--main-color-lime);
 	font-family: Oswald', sans-serif;
+	color: main-color-pink
 }
 
 /* Small devices (landscape phones, 576px and up) */
