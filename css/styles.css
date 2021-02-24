@@ -39,7 +39,7 @@ No media query for `xs` since this is the default in Bootstrap */
 	height: 25vh;
 	background-color: var(--main-color-lime);
 	font-family: Oswald', sans-serif;
-	color: main-color-pink
+	color: main-color-pink;
 }
 
 /* Small devices (landscape phones, 576px and up) */
