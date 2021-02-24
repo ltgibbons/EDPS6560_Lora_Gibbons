@@ -26,7 +26,8 @@ No media query for `xs` since this is the default in Bootstrap */
 #sec_lan {
 	height: 200vh;
 	background-color: var(--main-color-white);
-	font-family: Libre Baskerville', serif;
+	font-family: 'Tangerine', cursive;
+	color: blueviolet
 }
 
 #sec_nav {
