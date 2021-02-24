@@ -33,6 +33,7 @@ No media query for `xs` since this is the default in Bootstrap */
 	height: 25vh;
 	background-color: var(--main-color-gray)
 	font-family: Oswald', sans-serif;
+}
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
