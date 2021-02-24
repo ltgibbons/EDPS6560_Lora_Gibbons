@@ -31,7 +31,7 @@ No media query for `xs` since this is the default in Bootstrap */
 
 #sec_nav {
 	height: 25vh;
-	background-color: var(--main-color-gray)
+	background-color: var(--main-color-gray);
 	font-family: Oswald', sans-serif;
 }
 
